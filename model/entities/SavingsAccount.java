@@ -1,4 +1,4 @@
-package entities;
+package model.entities;
 
 public final class SavingsAccount extends Account {
 

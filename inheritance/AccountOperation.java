@@ -1,8 +1,8 @@
 package inheritance;
 
-import entities.Account;
-import entities.BusinessAccount;
-import entities.SavingsAccount;
+import model.entities.Account;
+import model.entities.BusinessAccount;
+import model.entities.SavingsAccount;
 
 public class AccountOperation {
 

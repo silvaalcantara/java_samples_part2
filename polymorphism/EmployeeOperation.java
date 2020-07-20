@@ -5,8 +5,8 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Employee;
-import entities.OutsourcedEmployee;
+import model.entities.Employee;
+import model.entities.OutsourcedEmployee;
 
 public class EmployeeOperation {
 

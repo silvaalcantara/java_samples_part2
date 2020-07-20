@@ -4,9 +4,9 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Locale;
 import java.util.Scanner;
-import entities.LegalPerson;
-import entities.NaturalPerson;
-import entities.Person;
+import model.entities.LegalPerson;
+import model.entities.NaturalPerson;
+import model.entities.Person;
 
 /*
 Enunciado do problema:
